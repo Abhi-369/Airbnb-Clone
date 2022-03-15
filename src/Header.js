@@ -9,7 +9,7 @@ function Header() {
     const mystyle = {
         "listStyle": "none",
         "flex": "1",
-        "marginLeft": "-15rem"
+        "marginLeft": "-5rem"
     }
 
     return <div className="header">
